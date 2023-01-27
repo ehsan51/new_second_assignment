@@ -42,7 +42,7 @@ Note: to run this node, you should first set a value to the publisher_speed para
 Otherwise, you can launch the whole of the procces by the following command:
 	  roslaunch rt_assignment esi_launch.launch
 
-The flowchart of the whole process has been represented below:![My First Board(4)](https://user-images.githubusercontent.com/52650110/214985398-9eb3dff9-b827-4f42-8332-c419052329cd.jpg)
+The flowchart of the first and second node of the process has been represented below:![My First Board(4)](https://user-images.githubusercontent.com/52650110/214985398-9eb3dff9-b827-4f42-8332-c419052329cd.jpg)
 
 
 
